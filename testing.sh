@@ -1,2 +1,2 @@
 source .env
-grep 'the.*a' $DOC
+grep '\blove\b' $DOC
