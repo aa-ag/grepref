@@ -1,2 +1,2 @@
 source .env
-grep '\.' $DOC
+grep '^red' $DOC
