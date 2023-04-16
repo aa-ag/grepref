@@ -1,2 +1,2 @@
 source .env
-grep -E '\<un' $DOC
+grep 'ing\>' $DOC
