@@ -1,2 +1,2 @@
 source .env
-grep -e 'e[^a]' $DOC
+grep 'r.d' $DOC
