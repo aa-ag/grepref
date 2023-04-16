@@ -1,3 +1,2 @@
 source .env
-# grep `whoami` $DIR
-grep "$HOME" $DIR
+grep -e 'e[a]' $DOC
