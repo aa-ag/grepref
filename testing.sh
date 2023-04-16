@@ -1,2 +1,2 @@
 source .env
-grep '^red' $DOC
+grep -E '\<un' $DOC
