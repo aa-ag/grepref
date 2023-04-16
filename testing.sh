@@ -1,2 +1,2 @@
 source .env
-grep 'you\?' $DOC
+grep 'you\+' $DOC
