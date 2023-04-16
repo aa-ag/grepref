@@ -1,2 +1,2 @@
 source .env
-grep 'ing\>' $DOC
+grep 'the.*a' $DOC
