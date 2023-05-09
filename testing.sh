@@ -1,2 +1,2 @@
 source .env
-grep '[:upper:]' $DOC
+echo 'USER:' `whoami` '\nhome dir is:' $HOME
