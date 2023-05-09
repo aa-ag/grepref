@@ -1,2 +1,2 @@
 source .env
-grep '{3}' $DOC
+grep '[:upper:]' $DOC
