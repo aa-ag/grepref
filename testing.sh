@@ -1,2 +1,2 @@
 source .env
-grep -D read 'love' Charles_Dickens_AXmasCharol.txt
+grep --exclude=*.csv 'Carol' ../grepref
