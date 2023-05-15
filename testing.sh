@@ -1,2 +1,2 @@
 source .env
-grep -B 3 'love' Charles_Dickens_AXmasCharol.txt
+grep -D read 'love' Charles_Dickens_AXmasCharol.txt
