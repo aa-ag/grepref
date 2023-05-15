@@ -1,2 +1,2 @@
 source .env
-grep --exclude=*.csv 'Carol' ../grepref
+grep --include=*.csv 'Carol' Charles_Dickens_AXmasCharol.txt
