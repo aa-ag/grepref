@@ -1,2 +1,2 @@
 source .env
-grep -r 'social' .
+fgrep 'Scrooge' 'Charles_Dickens_AXmasCharol.txt'
