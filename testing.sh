@@ -1,2 +1,2 @@
 source .env
-fgrep -b 'Scrooge' 'Charles_Dickens_AXmasCharol.txt'
+fgrep -c 'Scrooge' 'Charles_Dickens_AXmasCharol.txt'
