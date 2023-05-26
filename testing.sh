@@ -1,3 +1,3 @@
 source .env
 # grep -P test /bin/ls
-grep \p{Greek}
+grep \P{Greek}
